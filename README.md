@@ -14,7 +14,7 @@ This project demonstrates comprehensive data science capabilities through analys
 
 ##  Quick Start
 
-```bash
+
 # Clone the repository
 git clone https://github.com/username/retail-analytics.git
 cd retail-analytics
@@ -27,6 +27,7 @@ jupyter notebook retail_analytics.ipynb
 
 # Run all cells for complete analysis (~30 seconds)
 
+```bash
 retail-analytics/
 ├── retail_analytics.ipynb    # Main analysis notebook
 ├── README.md                 # Project documentation
@@ -37,6 +38,7 @@ retail-analytics/
 │   └── report.json          # Analysis summary
 └── docs/                     # Additional documentation
 
+```
 ## Key Features
 
 - Customer segmentation using K-means clustering with RFM analysis
@@ -127,7 +129,7 @@ This analysis framework can be adapted for various industries and use cases:
 
 ## Contact
 
-Professional inquiries and technical discussions welcome.
+Aishwarya Shelke
+aishwarya.s@nextitjobs.com 
 
-This project demonstrates enterprise-level data science capabilities with measurable business impact.
 
